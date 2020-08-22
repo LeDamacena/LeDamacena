@@ -1,6 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/Dev-Frontend-green.svg)](https://shields.io/)
 
-# Leandro Damacena
 Front end Developer since January 2013 I developing technology products and services with the best practices and performance, ensuring clarity and quality in my codes.
 I actively seek out new technologies and stay up-to-date on industry trends and advancements. 
 
