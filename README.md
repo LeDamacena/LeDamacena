@@ -43,3 +43,7 @@ I actively seek out new technologies and stay up-to-date on industry trends and 
 
 ##
 [![Linkedin badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lddamacena)
+
+## Readings
+
+<a href="https://app.daily.dev/LeDamacena"><img src="https://api.daily.dev/devcards/bfca240a308e425788e564f5d146f43f.png?r=t87" width="400" alt="Leandro de Oliveira Damacena's Dev Card"/></a>
